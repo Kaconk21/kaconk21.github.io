@@ -1,12 +1,14 @@
 [
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "io.github.kaconk21.twa",
-      "sha256_cert_fingerprints": [
-        "ED:27:F4:50:42:12:FD:E5:B4:E0:0F:BA:69:52:62:C9:7B:3B:99:05:19:70:C4:E0:93:8F:F9:6F:9E:D1:A6:60"
-      ]
-    }
-  }
+{
+"relation": [
+"delegate_permission/common.handle_all_urls"
+],
+"target": {
+"namespace": "android_app",
+"package_name": "io.github.kaconk21.twa",
+"sha256_cert_fingerprints": [
+"5B:83:CE:A9:40:D5:F1:17:E8:CC:F4:56:7F:E4:C2:D2:29:06:0F:33:33:48:A1:EC:F0:59:6B:85:89:F3:5E:D7"
+]
+}
+}
 ]
